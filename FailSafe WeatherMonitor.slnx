@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FailSafe WeatherMonitor/FailSafeWeatherMonitor.ConsoleApp.csproj" />
+  <Project Path="FailSafeWeatherMonitor.Core/FailSafeWeatherMonitor.Core.csproj" Id="dd1ebb0b-0a1a-478f-9bcd-37fc335f100c" />
+  <Project Path="FailSafeWeatherMonitor.Data/FailSafeWeatherMonitor.Data.csproj" Id="680651f8-e7c7-4876-b4bd-6d48ce82fab3" />
+</Solution>
